@@ -1,0 +1,8 @@
+collections:
+  about:
+    output: true
+    order:
+      - overview/.keep
+      - overview/vision.md
+      - overview/mission.md
+      - organisation structure.md
