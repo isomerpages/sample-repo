@@ -7,7 +7,7 @@ permalink: /
 notification: This is a sample isomer site, content is not factual
 sections:
   - hero:
-      title: Building the future
+      title: "Building the future "
       subtitle: Explore the possibilities with static site builder
       background: /images/hero-new.jpg
       button: Get in touch
