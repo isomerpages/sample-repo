@@ -3,19 +3,19 @@ url: ""
 favicon: /images/favicon-isomer.ico
 shareicon: /images/sentosa.png
 colors:
-  primary-color: "#580C1F"
-  secondary-color: "#577590"
+  primary-color: "#331356"
+  secondary-color: "#880537"
   media-colors:
     - title: media-color-one
-      color: "#74121D"
+      color: "#008161"
     - title: media-color-two
-      color: "#A7333F"
+      color: "#16A660"
     - title: media-color-three
-      color: "#A51C30"
+      color: "#1A4A5C"
     - title: media-color-four
-      color: "#C52233"
+      color: "#5E0C47"
     - title: media-color-five
-      color: "#74121D"
+      color: "#A0A063"
 resources_name: media-room
 description: An Isomer site of the Singapore Government
 permalink: none
