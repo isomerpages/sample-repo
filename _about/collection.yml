@@ -5,3 +5,4 @@ collections:
       - intro/.keep
       - intro/vision.md
       - intro/mission.md
+      - introduction.md
