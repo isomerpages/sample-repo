@@ -3,17 +3,17 @@ url: ""
 favicon: /images/favicon-isomer.ico
 shareicon: /images/sentosa.png
 colors:
-  primary-color: "#5890C7"
-  secondary-color: "#FF7F2F"
+  primary-color: "#000000"
+  secondary-color: "#EF5B5B"
   media-colors:
     - title: media-color-one
-      color: "#FF2925"
+      color: "#0B5D1E"
     - title: media-color-two
-      color: "#FFE70A"
+      color: "#FFBA49"
     - title: media-color-three
       color: "#993A43"
     - title: media-color-four
-      color: "#575264"
+      color: "#139A43"
     - title: media-color-five
       color: "#083A70"
 resources_name: media-room
