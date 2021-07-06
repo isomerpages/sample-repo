@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - hello/.keep
+      - hello/newpage.md
       - intro/.keep
       - intro/vision.md
       - intro/mission.md
