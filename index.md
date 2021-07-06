@@ -23,9 +23,6 @@ sections:
         - title: Apply
           description: Be part of our team
           url: https://google.com
-  - infobar:
-      title: Cute video
-      description: <insert video here>
   - resources:
       title: Media Room
       button: View More
