@@ -8,7 +8,8 @@ notification: This is a sample isomer site, content is not factual
 sections:
   - hero:
       title: "Building the future "
-      subtitle: Explore the possibilities with static site builder
+      subtitle: Explore the possibilities with isomer, static site builder for the
+        government
       background: /images/hero-new.jpg
       button: Get in touch
       url: /contact-us/
