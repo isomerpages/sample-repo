@@ -8,7 +8,5 @@ links:
     collection: about
   - title: Media Room
     resource_room: true
-  - title: Calculator
-    url: /calculator
   - title: Integration
     collection: integration
