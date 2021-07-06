@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - introduction.md
-      - integration/.keep
-      - integration/vision.md
-      - integration/mission.md
+      - intro/.keep
+      - intro/vision.md
+      - intro/mission.md
