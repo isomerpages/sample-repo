@@ -6,7 +6,7 @@ links:
     url: /faq/
   - title: About
     collection: about
-  - title: Media Room
-    resource_room: true
   - title: Integration
     collection: integration
+  - title: Media Room
+    resource_room: true
