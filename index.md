@@ -26,4 +26,12 @@ sections:
   - resources:
       title: Media Room
       button: View More
+  - infobar:
+      title: Short and sweet title
+      subtitle: Sample info bar
+      description: We recommend that your description is kept within a reasonable
+        length as well. Nobody wants to read a very very wordy wall of text. Do
+        you?
+      button: Go here
+      url: /about/introduction
 ---
