@@ -2,4 +2,4 @@ collections:
   integration:
     output: true
     order:
-      - formsg-integration.md
+      - formsg.md
