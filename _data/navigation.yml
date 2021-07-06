@@ -1,12 +1,10 @@
 logo: /images/sample.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
   - title: About
     collection: about
   - title: Integration
     collection: integration
   - title: Media Room
     resource_room: true
+  - title: Contact Us
+    url: /contact-us/
