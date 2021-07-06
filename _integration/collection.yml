@@ -1,4 +1,5 @@
 collections:
   integration:
     output: true
-    order: []
+    order:
+      - formsg-integration.md
