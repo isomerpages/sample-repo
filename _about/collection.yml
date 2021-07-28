@@ -2,10 +2,6 @@ collections:
   about:
     output: true
     order:
-      - hello/.keep
-      - hello/page1-2.md
-      - hello/hellomy1.md
-      - hello/hellom1.md
       - intro/.keep
       - intro/vision.md
       - intro/mission.md
