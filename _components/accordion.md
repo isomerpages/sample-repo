@@ -16,6 +16,7 @@ permalink: /components/accordion
 </li>
 </ul>
 ```
+----
 #### This will produce 
  <ul class="jekyllcodex_accordion"> 
 	<li>
