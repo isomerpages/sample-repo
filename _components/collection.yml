@@ -1,4 +1,5 @@
 collections:
   components:
     output: true
-    order: []
+    order:
+      - accordion.md
