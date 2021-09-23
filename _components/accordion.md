@@ -53,3 +53,25 @@ permalink: /components/accordion
     </div>
   </li>
 </ul>
+
+To create an accordion with one line item, use the snippet below
+```
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+</ul>
+```
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Simple</label>
+    <div>
+      <p>This is a simple one line item</p>
+    </div>
+	</li>  
+</ul>
