@@ -2,11 +2,7 @@
 title: Test Table
 permalink: /integration/tables
 ---
-Locations that are administering the Covid-19 Vaccines.
-
-Operating Hours Vary
-
-Public is advised to call the respective clinics to enquire on the vaccination cut-off time for their preferred date
+A page to test table.
 
 
 ###  **Central**
