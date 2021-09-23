@@ -1,7 +1,8 @@
 ---
 title: Test Table
-permalink: /integration/tables
+permalink: /components/tables
 ---
+
 A page to test table.
 
 ###  **Central**
