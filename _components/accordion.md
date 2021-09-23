@@ -67,6 +67,7 @@ To create an accordion with one line item, use the snippet below
 	</li>  
 </ul>
 ```
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -74,7 +75,7 @@ To create an accordion with one line item, use the snippet below
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>  
+</li>  
 </ul>
 
 To create a multiline block, use the snippet below
