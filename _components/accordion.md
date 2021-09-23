@@ -2,6 +2,7 @@
 title: Accordion
 permalink: /components/accordion
 ---
+```
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -53,7 +54,7 @@ permalink: /components/accordion
     </div>
   </li>
 </ul>
-
+```
 To create an accordion with one line item, use the snippet below
 ```
 <ul class="jekyllcodex_accordion">
