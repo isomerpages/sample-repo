@@ -14,7 +14,7 @@ Below is a sample snippet of accordion
     <div>
       <p>This is a simple one line item</p>
     </div>
-	</li>  
+  </li>  
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Multi-line Block</label>
@@ -116,10 +116,10 @@ This will produce
 ### Important note
 
 If you want to create more than 1 accordion items in the same page, do take note that 
-* the `id` and `label` has to be the same. 
+* the `id` and `for` has to be the same. 
 * there should not be repeated ID in the same page
 
-You will find the `id` and `label` in the `input` and `label` tag
+You will find the `id` and `for` in the `input` and `label` tag
  ```
  <input type="checkbox" id="accordion1">
  <label for="accordion1">Unordered List</label>
