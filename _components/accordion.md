@@ -113,6 +113,40 @@ This will produce
   </li>
 </ul>
 
+### Creating new line text within an accordion
+
+Note that pressing entre or using `\n` will not bring you to a new line on the accordion. 
+
+You should be using either `<p>` tag or `<br>` tag to start a new line on your accordion. 
+
+Here's an example:
+
+```
+  <li>
+    <input type="checkbox" id="accordion">
+    <label for="accordion">Multi-line Block</label>
+    <div>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
+```
+
+The code snippet above will produce
+
+  <li>
+    <input type="checkbox" id="accordion">
+    <label for="accordion">Multi-line Block</label>
+    <div>
+      <p>This is line 1</p>
+      <p>This is line 2<br>
+        This is line 3</p>
+    </div>
+  </li>
+
+	
+	
 ### Important note
 
 If you want to create more than 1 accordion line items in the same page, do take note that 
