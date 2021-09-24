@@ -52,7 +52,6 @@ This is line 3</p>
 <ul class="jekyllcodex_accordion"> 
 <li>
 	<input type="checkbox" id="accordion3">
-	<label for="accordion4">Multi-line Block</label>
 	<div>
 		<p>This is line 1</p>
 		<p>This is line 2<br>
