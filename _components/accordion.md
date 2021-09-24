@@ -147,7 +147,6 @@ The code snippet above will produce
 	</ul>
 
 	
-	
 ### Important note
 
 If you want to create more than 1 accordion line items in the same page, do take note that 
