@@ -18,8 +18,8 @@ permalink: /components/accordion
 
 <ul class="jekyllcodex_accordion"> 
 <li>
-	<input type="checkbox" id="accordion2">
-	<label for="accordion2">Multi-line Block</label>
+	<input type="checkbox" id="accordion3">
+	<label for="accordion3">Multi-line Block</label>
 	<div>
 		<p>This is line 1</p>
 		<p>This is line 2<br>
@@ -51,8 +51,8 @@ This is line 3</p>
 
 <ul class="jekyllcodex_accordion"> 
 <li>
-	<input type="checkbox" id="accordion2">
-	<label for="accordion2">Multi-line Block</label>
+	<input type="checkbox" id="accordion4">
+	<label for="accordion4">Multi-line Block</label>
 	<div>
 		<p>This is line 1</p>
 		<p>This is line 2<br>
