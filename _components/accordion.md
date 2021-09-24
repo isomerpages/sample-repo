@@ -134,6 +134,7 @@ Here's an example:
 
 The code snippet above will produce
 
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion">
     <label for="accordion">Multi-line Block</label>
@@ -143,6 +144,7 @@ The code snippet above will produce
         This is line 3</p>
     </div>
   </li>
+	</ul>
 
 	
 	
