@@ -2,8 +2,7 @@
 title: Accordion
 permalink: /components/accordion
 ---
-### Sample accordion
-
+### Sample accordion snippet
 Below is a sample snippet of accordion
 
 ```
@@ -60,7 +59,7 @@ Below is a sample snippet of accordion
 </ul>
 ```
 
-This will produce
+#### This will produce the accordion below
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion6">
@@ -115,7 +114,7 @@ This will produce
 
 ### Creating new line text within an accordion
 
-Note that pressing entre or using `\n` will not bring you to a new line on the accordion. 
+Note that pressing `Enter` on your keyboard or using `\n` will not bring you to a new line on the accordion. 
 
 You should be using either `<p>` tag or `<br>` tag to start a new line on your accordion. 
 
