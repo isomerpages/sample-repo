@@ -115,11 +115,16 @@ This will produce
 
 ### Important note
 
-If you want to create more than 1 accordion items in the same page, do take note that 
-* the `id` and `for` has to be the same. 
-* there should not be repeated ID in the same page
+If you want to create more than 1 accordion line items in the same page, do take note that 
+* the `id` and `for` attribute in the `input` and `label` tags have to be the same. 
+* there should not be repeated `id` or `for` attribute in the same page. 
 
-You will find the `id` and `for` in the `input` and `label` tag
+If you have repeated `id` or `for` attributes, the repeated accordion will not open.
+
+#### Where are the `id` and `for` attributes?
+You will find the `id` and `for` fields in the `input` and `label` tag.  
+
+In the example below the you will see matching `id="accordion1"` and `for="accordion1"` attributes.
  ```
  <input type="checkbox" id="accordion1">
  <label for="accordion1">Unordered List</label>
