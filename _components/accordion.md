@@ -63,8 +63,8 @@ Below is a sample snippet of accordion
 This will produce
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Simple</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
@@ -124,7 +124,3 @@ You will find the `id` and `label` in the `input` and `label` tag
  <input type="checkbox" id="accordion1">
  <label for="accordion1">Unordered List</label>
 ```
-
-
-
-
