@@ -1,10 +1,22 @@
-logo: /images/sample.jpeg
+logo: /images/POFMA Logo_20 june-red (1).png
 links:
-  - title: About
-    collection: about
-  - title: Integration
-    collection: integration
-  - title: Media Room
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+  - title: About Us
+    url: /about-us/
+  - title: Media Centre
+    url: /media-centre/
+  - title: Regulations
+    collection: regulations
+  - title: Registry
+    collection: registry
+  - title: Resources
+    url: /resources/
+    sublinks:
+      - title: Factually
+        url: https://www.gov.sg/factually
+      - title: Application Form
+        url: /resources/application-form/
+  - title: Report Falsehood
+    url: /report-falsehoods/
+    sublinks:
+      - title: Reporting a falsehood
+        url: /report-falsehoods/
