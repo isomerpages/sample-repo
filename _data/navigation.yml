@@ -1,31 +1,4 @@
-logo: '/images/POFMA Logo_20 june-red (1).png'
+logo: /images/POFMA Logo_20 june-red (1).png
 links:
-    - title: 'About Us'
-      url: /about-us/
-    - title: 'Media Centre'
-      url: /media-centre/
-    - title: Regulations
-      collection: regulations
-    - title: Registry
-      collection: registry
-    - title: Resources
-      url: /resources/
-      sublinks:
-        - title: Factually
-          url: https://www.gov.sg/factually
-        - title: Application Form
-          url: /resources/application-form/
-    - title: Report Falsehood
-      url: /report-falsehoods/
-      sublinks:
-        - title: Reporting a falsehood
-          url: /report-falsehoods/
-    - title: Statistics
-      url: /resources/statistics/2021-q3/
-      sub-links: 
-        - title: 2021
-          url: /resources/statistics/2021-q1/
-        - title: 2020
-          url: /resources/statistics/2020-q1/
-        - title: 2019
-          url: /resources/statistics/2019-q4/
+  - title: About Us
+    url: /about-us/
