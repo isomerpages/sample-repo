@@ -2,3 +2,5 @@ logo: /images/POFMA Logo_20 june-red (1).png
 links:
   - title: About Us
     url: /about-us/
+  - title: Integration
+    collection: integration
