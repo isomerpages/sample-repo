@@ -1,6 +1,6 @@
 logo: /images/sample.jpeg
 links:
   - title: About Us
-    url: /about-us/
+    url: /about/overview/vision
   - title: Integration
     collection: integration
