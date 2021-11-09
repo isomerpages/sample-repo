@@ -2,8 +2,7 @@
 title: Test Table
 permalink: /components/tables
 ---
-
-A page to test table.
+This page is meant for **Customs Singapore**'s reference only.
 
 ###  **Central**
 <table>
