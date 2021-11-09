@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 你好!!.md
-      - intro/你好!!.md
+      - intro/中文!!.md
       - intro/.keep
       - intro/vision.md
       - intro/mission.md
