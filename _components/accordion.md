@@ -2,6 +2,8 @@
 title: Accordion
 permalink: /components/accordion
 ---
+This page is meant for **Customs Singapore**'s reference only
+
 ### Sample accordion snippet
 Below is a sample snippet of accordion
 
