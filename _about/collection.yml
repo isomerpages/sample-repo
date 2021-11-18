@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Example Title.md
       - 你好!!.md
       - intro/中文!!.md
       - intro/.keep
