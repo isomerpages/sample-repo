@@ -4,3 +4,9 @@ links:
     url: /about/overview/vision
   - title: Integration
     collection: integration
+  - title: Tab 3
+    collection: about
+  - title: "Short Tab 4 "
+    collection: about
+  - title: Longer tab 4
+    collection: about
